@@ -1,9 +1,5 @@
 # 54-智慧医疗问诊-挂号系统
 
-[文档地址](http://wechat.zjrcsy.cn/)
-
-# 54-智慧医疗问诊-挂号系统
-
 
 [文档地址](http://wechat.zjrcsy.cn/)
 
